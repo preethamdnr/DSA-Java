@@ -1,5 +1,5 @@
 public class Bubsort {
-    public static void main(String args[]){
+    public static void main(String[] args){
         int nums[]={9,2,4,7,8,1};
         int temp=0;
         for(int num:nums)
