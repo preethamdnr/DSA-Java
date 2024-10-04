@@ -1,4 +1,4 @@
-public class Runner {
+public class RunnerLink {
     public static void main(String[] args){
         Linkedlist list=new Linkedlist();
         list.insert(10);
